@@ -9,7 +9,7 @@
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-[Android](https://img.shields.io/badge/-Android-000?&logo=Android)
+[Android](https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg)
 [React](https://img.shields.io/badge/-React-000?&logo=React)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
