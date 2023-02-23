@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&center=true&width=1000&lines=%F0%9D%93%95%F0%9D%93%BE%F0%9D%93%B5%F0%9D%93%B5-%F0%9D%93%A2%F0%9D%93%BD%F0%9D%93%AA%F0%9D%93%AC%F0%9D%93%B4+%F0%9D%93%93%F0%9D%93%AE%F0%9D%93%BF%F0%9D%93%AE%F0%9D%93%B5%F0%9D%93%B8%F0%9D%93%B9%F0%9D%93%AE%F0%9D%93%BB;%F0%9D%93%9C%F0%9D%93%B8%F0%9D%93%AB%F0%9D%93%B5%F0%9D%93%B2%F0%9D%93%AE+%F0%9D%93%90%F0%9D%93%B9%F0%9D%93%B9+%F0%9D%93%93%F0%9D%93%AE%F0%9D%93%BF%F0%9D%93%AE%F0%9D%93%B5%F0%9D%93%B8%F0%9D%93%B9%F0%9D%93%AE%F0%9D%93%BB;%F0%9D%93%91%F0%9D%93%B5%F0%9D%93%B8%F0%9D%93%AC%F0%9D%93%B4%F0%9D%93%AC%F0%9D%93%B1%F0%9D%93%AA%F0%9D%93%B2%F0%9D%93%B7+%F0%9D%93%94%F0%9D%93%B7%F0%9D%93%B0%F0%9D%93%B2%F0%9D%93%B7%F0%9D%93%AE%F0%9D%93%AE%F0%9D%93%BB)](https://git.io/typing-svg)
 
+ 
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=MKRLancer&show_icons=true&theme=radical)
+![github stats](https://github-readme-stats.vercel.app/api?username=MKRLancer&show_icons=true&theme=radical)
 
 
 
@@ -46,4 +49,4 @@
 [![](https://img.shields.io/badge/-🛡%20Spectre%20%26%20Meltdown-000)](https://github.com/adamalston/Meltdown-Spectre)
 [![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)](https://github.com/adamalston/Network-Tools)
 
-<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=MKRLancer&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,44c64d,444444&theme=graywhite" /><!-- wi*quL3fcV -->&nbsp;&nbsp; <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MKRLancer&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,444444,44c64d&theme=graywhite" /></a>
+
