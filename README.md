@@ -9,6 +9,8 @@
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+[Android](https://img.shields.io/badge/-Android-000?&logo=Android)
+[React](https://img.shields.io/badge/-React-000?&logo=React)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
